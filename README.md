@@ -18,12 +18,6 @@ Cotent from [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ)
 brew install pandoc markdown lynx
 ```
 
-### Ubuntu
-
-```bash
-apt-get install pandoc markdown lynx
-```
-
 ## Installation
 
 ```bash
