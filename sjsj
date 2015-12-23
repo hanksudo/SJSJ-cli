@@ -1,0 +1,3 @@
+#!/bin/sh
+TERM=`echo $1 | tr "[:lower:]" "[:upper:]"`
+pandoc https://raw.githubusercontent.com/HugoGiraudel/SJSJ/master/glossary/$TERM.md | markdown | lynx -dump -stdin
