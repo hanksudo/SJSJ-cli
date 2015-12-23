@@ -12,15 +12,10 @@ Cotent from [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ)
 - markdown
 - lynx
 
-### OSX
+## Installation (Tested on OSX)
 
 ```bash
 brew install pandoc markdown lynx
-```
-
-## Installation
-
-```bash
 curl https://raw.githubusercontent.com/hanksudo/SJSJ-cli/master/sjsj > ~/bin/sjsj
 chmod a+x ~/bin/sjsj
 ```
