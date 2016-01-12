@@ -1,12 +1,12 @@
 # SJSJ-cli
 
-Simplified JavaScript Jargon in Terminal
+> Simplified JavaScript Jargon in Terminal
 
-Cotent from [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ)
+Content from [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ).
 
-![](https://github.com/hanksudo/SJSJ-cli/blob/master/screenshot.png)
+![Demonstration screenshot](https://github.com/hanksudo/SJSJ-cli/blob/master/screenshot.png)
 
-## prerequisites
+## Pre-requisites
 
 - pandoc
 - markdown
