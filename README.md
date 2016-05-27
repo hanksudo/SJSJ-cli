@@ -14,6 +14,8 @@ Content from [HugoGiraudel/SJSJ](https://github.com/HugoGiraudel/SJSJ).
 
 ## Installation (Tested on OSX)
 
+Notice: `~/bin` must in your $PATH
+
 ```bash
 brew install pandoc markdown lynx
 curl https://raw.githubusercontent.com/hanksudo/SJSJ-cli/master/sjsj > ~/bin/sjsj
